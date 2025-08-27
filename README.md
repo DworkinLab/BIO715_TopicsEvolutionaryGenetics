@@ -26,3 +26,11 @@ For the second half of the course (the remaining 6 weeks), we will focus more on
 Each week there will be a written critique of a specific paper (details to follow, but ~ 1 page in length). You are expected to attend all classes as class discussions will be another major part of the assessment. Finally, each student will be expected to write an independent, synthetic and analytical paper based on topics you will choose (but approved by Ben, Brian or Ian). 
 
 
+## Primary readings
+
+
+
+## Useful background readings
+
+
+
