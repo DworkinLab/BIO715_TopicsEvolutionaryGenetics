@@ -40,7 +40,11 @@ You should have access to all of these via McMaster library. If you have any pro
 
 [Charmantier, A, editor.; Garant, D, editor.; Kruuk, LEB, editor. 2014. **Quantitative Genetics in the Wild**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991024502139707371)
 
-[Álvarez-Castro, José M. 2023. ** Genes, Environments and Interactions: Evolutionary and Quantitative Genetics Brought Up-to-date**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991034203669407371)
+[Álvarez-Castro, José M. 2023. **Genes, Environments and Interactions: Evolutionary and Quantitative Genetics Brought Up-to-date**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991034203669407371)
+
+[Walsh, B. Lynch M. 2018. **Evolution and Selection of Quantitative Traits**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991029251159707371)
+
+[Gingerich, PD. 2019. **Rates of Evolution: A Quantitative Synthesis**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991034217354107371)
 
 
 
