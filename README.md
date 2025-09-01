@@ -28,9 +28,16 @@ Each week there will be a written critique of a specific paper (details to follo
 
 ## Primary readings
 
+You should have access to all of these via McMaster library. If you have any problems reach out to Ian, as he had PDFs of all of them.
 
 
 ## Useful background readings
+
+[Arnold, S. 2023. Evolutionary Quantitative Genetics](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991033826383507371)
+
+
+[Hansen, T., Houle, D., Pavlicev, M., Pelabon, C. 2023. Evolvability: A unifiying concept in Biology?](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991033826194607371)
+
 
 
 
