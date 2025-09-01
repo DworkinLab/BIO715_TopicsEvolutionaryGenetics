@@ -31,11 +31,12 @@ Each week there will be a written critique of a specific paper (details to follo
 You should have access to all of these via McMaster library. If you have any problems reach out to Ian or Brian (depending on who is leading class)., as we have PDFs of all of them.
 
 ### Week of September 8th
-[Tsuboi et al. 2024. **The paradox of predictability provides a bridge between micro- and macroevolution**](https://doi.org/10.1093/jeb/voae103)
 
 [McGuigan, K. 2006. **Studying phenotypic evolution using multivariate quantitative genetics**](https://doi.org/10.1111/j.1365-294X.2006.02809.x)
 
 [Hansen, T. 2023 **Chapter 5 in Evolvability book; Variation, Inheritance, and Evolution: A Primer on Evolutionary Quantitative Ge­ne­tics**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991033826194607371)
+
+[Tsuboi et al. 2024. **The paradox of predictability provides a bridge between micro- and macroevolution**](https://doi.org/10.1093/jeb/voae103)
 
 
 
