@@ -33,10 +33,15 @@ You should have access to all of these via McMaster library. If you have any pro
 
 ## Useful background readings
 
-[Arnold, S. 2023. Evolutionary Quantitative Genetics](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991033826383507371)
+[Arnold, S. 2023. **Evolutionary Quantitative Genetics**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991033826383507371)
 
 
-[Hansen, T., Houle, D., Pavlicev, M., Pelabon, C. 2023. Evolvability: A unifiying concept in Biology?](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991033826194607371)
+[Hansen, T, editor. Houle, D, editor. Pavlicev, M, editor. Pelabon, C, editor. 2023. **Evolvability: A unifiying concept in Biology?**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991033826194607371)
+
+[Charmantier, A, editor.; Garant, D, editor.; Kruuk, LEB, editor. 2014. **Quantitative Genetics in the Wild**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991024502139707371)
+
+[Álvarez-Castro, José M. 2023. ** Genes, Environments and Interactions: Evolutionary and Quantitative Genetics Brought Up-to-date**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991034203669407371)
+
 
 
 
