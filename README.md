@@ -39,6 +39,8 @@ You should have access to all of these via McMaster library. If you have any pro
 
 ## Useful background
 
+[**Princeton Guide to Evolution**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991032468589907371)
+
 [Arnold, S. 2023. **Evolutionary Quantitative Genetics**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991033826383507371)
 
 [Hansen, T, editor. Houle, D, editor. Pavlicev, M, editor. Pelabon, C, editor. 2023. **Evolvability: A unifiying concept in Biology?**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991033826194607371)
