@@ -31,10 +31,9 @@ Each week there will be a written critique of a specific paper (details to follo
 You should have access to all of these via McMaster library. If you have any problems reach out to Ian, as he had PDFs of all of them.
 
 
-## Useful background readings
+## Useful background
 
 [Arnold, S. 2023. **Evolutionary Quantitative Genetics**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991033826383507371)
-
 
 [Hansen, T, editor. Houle, D, editor. Pavlicev, M, editor. Pelabon, C, editor. 2023. **Evolvability: A unifiying concept in Biology?**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991033826194607371)
 
@@ -45,6 +44,14 @@ You should have access to all of these via McMaster library. If you have any pro
 [Walsh, B. Lynch M. 2018. **Evolution and Selection of Quantitative Traits**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991029251159707371)
 
 [Gingerich, PD. 2019. **Rates of Evolution: A Quantitative Synthesis**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991034217354107371)
+
+[Garamszegi, LZ. editor. 2013. **Modern Phylogenetic Comparative Methods and Their Application in Evolutionary Biology Concepts and Practice**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991024074319707371)
+
+[Harmon, L. 2019.**Phylogenetic Comparative Methods: Learning From Trees**](https://lukejharmon.github.io/pcm/)
+
+[Cutter, A. 2019.**A primer of molecular population genetics**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991003145659707371)
+
+[Hartl, D. 2020. **A primer of population genetics and genomics**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991015862049707371)
 
 
 
