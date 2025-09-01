@@ -28,7 +28,13 @@ Each week there will be a written critique of a specific paper (details to follo
 
 ## Primary readings
 
-You should have access to all of these via McMaster library. If you have any problems reach out to Ian, as he had PDFs of all of them.
+You should have access to all of these via McMaster library. If you have any problems reach out to Ian or Brian (depending on who is leading class)., as we have PDFs of all of them.
+
+### Week of September 8th
+[Tsuboi et al. 2024. **The paradox of predictability provides a bridge between micro- and macroevolution**](https://doi.org/10.1093/jeb/voae103)
+
+[McGuigan, K. 2006. **Studying phenotypic evolution using multivariate quantitative genetics**](https://doi.org/10.1111/j.1365-294X.2006.02809.x)
+
 
 
 ## Useful background
@@ -47,9 +53,9 @@ You should have access to all of these via McMaster library. If you have any pro
 
 [Garamszegi, LZ. editor. 2013. **Modern Phylogenetic Comparative Methods and Their Application in Evolutionary Biology Concepts and Practice**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991024074319707371)
 
-[Harmon, L. 2019.**Phylogenetic Comparative Methods: Learning From Trees**](https://lukejharmon.github.io/pcm/)
+[Harmon, L. 2019. **Phylogenetic Comparative Methods: Learning From Trees**](https://lukejharmon.github.io/pcm/)
 
-[Cutter, A. 2019.**A primer of molecular population genetics**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991003145659707371)
+[Cutter, A. 2019. **A primer of molecular population genetics**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991003145659707371)
 
 [Hartl, D. 2020. **A primer of population genetics and genomics**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991015862049707371)
 
