@@ -18,7 +18,7 @@ We generally expect you to have an introductory Genetics (equivalent of BIO2C03)
 ## Course content
 For the first 6-7 weeks, we will discussing several topics in *phenotypic evolution*, largely from a quantitative genetics perspective. In particular we will focus on concepts of *evolvability* (the propensity for a trait to evolve), *evolutionary rates* (how fast do traits evolve) and the *predictiability of evolutionary response*, in particular how well does mutational and genetic variation *within* species provide a prediction of divergence among species? We will cap this section of the course off with a discussion about the (dis)cordance between molecular and phenotypic rates of evolution (although we may save this for the very last week).
 
-For the second half of the course (the remaining 6 weeks), we will focus more on *molecular evolution* and *molecular population genetics*. Specifically.... (Brian please add what you want)
+For the second half of the course (the remaining 6 weeks), we will focus more on *molecular evolution* and *molecular population genetics*. Among the topics we might look at include the phenomena of lateral gene transfer,  low complexity sequence evolution, repetitive element evolution, sex chromosome evolution (for Prof. Evans), the evolution of new genes, and other topics to be determined.
 
 
 ## How will we grade this class.
