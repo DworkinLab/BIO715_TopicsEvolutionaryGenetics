@@ -32,6 +32,13 @@ You should have access to all of these via McMaster library. If you have any pro
 
 ### Week of September 8th
 
+#### Refresher readings for September 8th
+Refresh yourself (or introduce yourself) to the fundamentals of Quantitative Genetics. While the first two papers below do an admirable job, some may find a more introductory chapter or two helpful to read first. The perfect readings for this would be chapters 4-6 of [Conner, J & Hartl, D. 2004. **A primer of ecological genetics**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991002998479707371). This book puts everything in a very evolutionary, which will be very useful. Unfortunately our library does not seem to have an electronic copy of it, (there is one physical copy in the library). Alternatively chapters 8 & 9 of [Hartl, D. 2020. **A primer of population genetics and genomics**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991015862049707371) are a reasonable introduction to quantitative genetics.
+
+
+However, the relevant chapter in amost any Genetics of Evolutionary Biology textbook will do just fine. It may be called "Quantitative Genetics" or "Genetics of complex traits" or something like that. I recommend reading one of these first before reading the papers below. Come prepared with lots of questions about what you don't understand about Quantitative Genetics. I will spend much of the first week helping to get everyone up to speed.
+
+#### Main Readings for the week
 [McGuigan, K. 2006. **Studying phenotypic evolution using multivariate quantitative genetics**](https://doi.org/10.1111/j.1365-294X.2006.02809.x)
 
 [Hansen, T. 2023 **Chapter 5 in Evolvability book; Variation, Inheritance, and Evolution: A Primer on Evolutionary Quantitative Ge­ne­tics**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991033826194607371)
