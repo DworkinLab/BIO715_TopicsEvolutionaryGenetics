@@ -10,7 +10,7 @@ Instuctors: Dr. Brian Golding, Dr. Ian Dworkin and when he can find some spare t
 
 ## What is this course is about: 
 
-This course will provide an introduction and/or refresher for graduate students interested in topics broadly spanning "Evolutionary Genetics". 
+Topics broadly spanning "Evolutionary Genetics". See course content below.
 
 ## Expected Background:
 We generally expect you to have an introductory Genetics (equivalent of BIO2C03) and introductory evolutionary biology (equivalent of BIO3FF3), we do not expect any specific knowledge of population genetics (equivalent of BIO3PG3) or Molecular Evolution (equivalent of MolBiol4DD3), but of course they will help! We will be providing both review readings as well as the primary literature readings to help everyone get up to speed. We also (below) will have some background resources if you feel they will help.
