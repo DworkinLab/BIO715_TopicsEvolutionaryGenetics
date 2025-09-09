@@ -46,6 +46,10 @@ However, the relevant chapter in amost any Genetics of Evolutionary Biology text
 [Tsuboi et al. 2024. **The paradox of predictability provides a bridge between micro- and macroevolution**](https://doi.org/10.1093/jeb/voae103)
 
 
+### Week of September 8th
+[Tsuboi et al. 2024. **The paradox of predictability provides a bridge between micro- and macroevolution**](https://doi.org/10.1093/jeb/voae103)
+
+[Schluter, D. 1996. Adaptive radiation along genetic lines of least resistance]( https://doi.org/10.1111/j.1558-5646.1996.tb03563.x)
 
 ## Useful background
 
