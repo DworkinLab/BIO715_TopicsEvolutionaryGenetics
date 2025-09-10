@@ -49,7 +49,13 @@ However, the relevant chapter in amost any Genetics of Evolutionary Biology text
 ### Week of September 8th
 [Tsuboi et al. 2024. **The paradox of predictability provides a bridge between micro- and macroevolution**](https://doi.org/10.1093/jeb/voae103)
 
-[Schluter, D. 1996. Adaptive radiation along genetic lines of least resistance]( https://doi.org/10.1111/j.1558-5646.1996.tb03563.x)
+If you already read Tsuboi in detail, I suggest this alternative article, that is related, quite clear, and I think is in general a nice summary. Also by the same author (Dolph Schluter) as the primary article we are reading!
+
+[Schluter, D. 2024. **Variable success in linking micro- and macroevolution** ](https://doi.org/10.1093/evolinnean/kzae016)
+
+and the primary paper we are reading (and you are writing a critique of):
+[Schluter, D. 1996. **Adaptive radiation along genetic lines of least resistance**]( https://doi.org/10.1111/j.1558-5646.1996.tb03563.x)
+
 
 ## Useful background
 
