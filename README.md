@@ -54,6 +54,7 @@ If you already read Tsuboi in detail, I suggest this alternative article, that i
 [Schluter, D. 2024. **Variable success in linking micro- and macroevolution** ](https://doi.org/10.1093/evolinnean/kzae016)
 
 and the primary paper we are reading (and you are writing a critique of):
+
 [Schluter, D. 1996. **Adaptive radiation along genetic lines of least resistance**]( https://doi.org/10.1111/j.1558-5646.1996.tb03563.x)
 
 
