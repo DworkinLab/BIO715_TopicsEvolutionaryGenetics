@@ -46,7 +46,7 @@ However, the relevant chapter in amost any Genetics of Evolutionary Biology text
 [Tsuboi et al. 2024. **The paradox of predictability provides a bridge between micro- and macroevolution**](https://doi.org/10.1093/jeb/voae103)
 
 
-### Week of September 8th
+### Week of September 15th
 [Tsuboi et al. 2024. **The paradox of predictability provides a bridge between micro- and macroevolution**](https://doi.org/10.1093/jeb/voae103)
 
 If you already read Tsuboi in detail, I suggest this alternative article, that is related, quite clear, and I think is in general a nice summary. Also by the same author (Dolph Schluter) as the primary article we are reading!
