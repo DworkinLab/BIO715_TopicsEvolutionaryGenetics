@@ -57,6 +57,17 @@ and the primary paper we are reading (and you are writing a critique of):
 
 [Schluter, D. 1996. **Adaptive radiation along genetic lines of least resistance**]( https://doi.org/10.1111/j.1558-5646.1996.tb03563.x)
 
+### Week of September 29th
+
+Review article on **G**-matrix and how it evolves.
+
+[Arnold et al. 2008. **UNDERSTANDING THE EVOLUTION AND STABILITY OF THE G-MATRIX** ](https://doi.org/10.1111/j.1558-5646.2008.00472.x)
+
+The primary paper we are reading (for your critique):
+
+[Mallard et al. 2023.**Selection and the direction of phenotypic evolution**](https://doi.org/10.7554/eLife.80993)
+
+
 
 ## Useful background
 
