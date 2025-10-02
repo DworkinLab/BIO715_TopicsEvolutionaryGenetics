@@ -68,6 +68,12 @@ The primary paper we are reading (for your critique):
 [Mallard et al. 2023.**Selection and the direction of phenotypic evolution**](https://doi.org/10.7554/eLife.80993)
 
 
+### Week of October 6th
+
+[Houle et al. 2017.**Mutation predicts 40 million years of fly wing evolution**](https://www.nature.com/articles/nature23473)
+
+[Picao-Osorio et al. 2025**Evolution of developmental bias explains divergent patterns of phenotypic evolution in two nematode clades**](https://doi.org/10.1073/pnas.2507529122)
+
 
 ## Useful background
 
