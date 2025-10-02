@@ -70,9 +70,9 @@ The primary paper we are reading (for your critique):
 
 ### Week of October 6th
 
-[Houle et al. 2017.**Mutation predicts 40 million years of fly wing evolution**](https://www.nature.com/articles/nature23473)
+[Houle et al. 2017. **Mutation predicts 40 million years of fly wing evolution**](https://www.nature.com/articles/nature23473)
 
-[Picao-Osorio et al. 2025**Evolution of developmental bias explains divergent patterns of phenotypic evolution in two nematode clades**](https://doi.org/10.1073/pnas.2507529122)
+[Picao-Osorio et al. 2025. **Evolution of developmental bias explains divergent patterns of phenotypic evolution in two nematode clades**](https://doi.org/10.1073/pnas.2507529122)
 
 
 ## Useful background
