@@ -103,3 +103,42 @@ The primary paper we are reading (for your critique):
 
 
 
+### Week of October 27th
+Adventures with Lateral Gene Transfer.
+
+This week just a review paper ... 
+[Tonkin-Hill G. 2025 NatMicrobiol**Within-host bacterial evolution and the emergence of pathogenicity**](https://www.nature.com/articles/s41564-025-02036-1)
+
+Next week papers to critque.
+
+### Some LGT background
+
+Keeling PJ. Horizontal gene transfer in eukaryotes: aligning theory with
+data. Nat Rev Genet. 2024 Jan 23. PMID: 38263430.
+
+Tokuda M, Shintani M. Microbial evolution through horizontal gene
+transfer by mobile genetic elements.  Microb Biotechnol. 2024
+Jan;17(1):e14408. PMID: 38226780.
+
+Gilbert C, Maumus F. Sidestepping Darwin: horizontal gene transfer
+from plants to insects. Curr Opin Insect Sci. 2023 Jun;57:101035. PMID:
+37061183.
+
+Michaelis C, Grohmann E. Horizontal Gene Transfer of Antibiotic Resistance
+Genes in Biofilms.  Antibiotics (Basel). 2023 Feb 4;12(2):328. PMID:
+36830238.
+
+Gophna U, Altman-Price N. Horizontal Gene Transfer in Archaea-From
+Mechanisms to Genome Evolution. Annu Rev Microbiol. 2022 Sep
+8;76:481-502. PMID: 35667126.
+
+Arnold BJ, Huang IT, Hanage WP. Horizontal gene transfer and adaptive
+evolution in bacteria. Nat Rev Microbiol. 2022 Apr;20(4):206-218. PMID:
+34773098.
+
+Aubin E, El Baidouri M, Panaud O. Horizontal Gene Transfers in
+Plants. Life (Basel). 2021 Aug 21;11(8):857. PMID: 34440601.
+
+Van Etten J, Bhattacharya D. Horizontal Gene Transfer in Eukaryotes: Not
+if, but How Much? Trends Genet. 2020 Dec;36(12):915-925. PMID: 33012528.
+
