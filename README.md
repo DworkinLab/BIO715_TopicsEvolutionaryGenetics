@@ -142,3 +142,15 @@ Plants. Life (Basel). 2021 Aug 21;11(8):857. PMID: 34440601.
 Van Etten J, Bhattacharya D. Horizontal Gene Transfer in Eukaryotes: Not
 if, but How Much? Trends Genet. 2020 Dec;36(12):915-925. PMID: 33012528.
 
+### Week of November 3rd
+Lateral Gene Transfer Part II
+
+This week review paper ... 
+[Zhaxybayeva 2025 Journam Molecular Biology**Impact of Horizontal Gene Transfer on
+Adaptations to Extreme Environments**](https://www.sciencedirect.com/science/article/pii/S0022283625004693?via%3Dihub)
+or 
+[Arnold et al. 2022 Nature Review Microbiology**Horizontal gene transfer and adaptive
+evolution in bacteria**](https://www.nature.com/articles/s41579-021-00650-4).
+
+To be critiqued, [Stepanauskas et al. 2025 ISME**Net rate of lateral gene transfer in marine
+prokaryoplankton**](https://academic.oup.com/ismej/article/19/1/wraf159/8248340?login=true). 
