@@ -107,7 +107,7 @@ The primary paper we are reading (for your critique):
 Adventures with Lateral Gene Transfer.
 
 This week just a review paper ... 
-[Tonkin-Hill G. 2025 NatMicrobiol**Within-host bacterial evolution and the emergence of pathogenicity**](https://www.nature.com/articles/s41564-025-02036-1)
+[Tonkin-Hill G. 2025 NatMicrobiol **Within-host bacterial evolution and the emergence of pathogenicity**](https://www.nature.com/articles/s41564-025-02036-1)
 
 Next week papers to critque.
 
@@ -146,11 +146,11 @@ if, but How Much? Trends Genet. 2020 Dec;36(12):915-925. PMID: 33012528.
 Lateral Gene Transfer Part II
 
 This week review paper ... 
-[Zhaxybayeva 2025 Journam Molecular Biology**Impact of Horizontal Gene Transfer on
-Adaptations to Extreme Environments**](https://www.sciencedirect.com/science/article/pii/S0022283625004693?via%3Dihub)
-or 
-[Arnold et al. 2022 Nature Review Microbiology**Horizontal gene transfer and adaptive
+[Arnold et al. 2022 Nature Review Microbiology **Horizontal gene transfer and adaptive
 evolution in bacteria**](https://www.nature.com/articles/s41579-021-00650-4).
+and
+[Zhaxybayeva 2025 Journam Molecular Biology **Impact of Horizontal Gene Transfer on
+Adaptations to Extreme Environments**](https://www.sciencedirect.com/science/article/pii/S0022283625004693?via%3Dihub)
 
-To be critiqued, [Stepanauskas et al. 2025 ISME**Net rate of lateral gene transfer in marine
+To be critiqued, [Stepanauskas et al. 2025 ISME **Net rate of lateral gene transfer in marine
 prokaryoplankton**](https://academic.oup.com/ismej/article/19/1/wraf159/8248340?login=true). 
