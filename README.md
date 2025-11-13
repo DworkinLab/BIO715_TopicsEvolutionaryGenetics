@@ -160,13 +160,19 @@ prokaryoplankton**](https://academic.oup.com/ismej/article/19/1/wraf159/8248340?
 Your proposal (max 1-2 pages) and a presentation outlining your
 proposal.
 
-(A critique of [Gluck-Thaler et al. 2022 MBE **Giant
+### Week of November 17th
+
+Since Gabriela and Sarah still have their own presentations to do,
+to be fair to them, we will have the critique of [Gluck-Thaler et al. 2022 MBE **Giant
 Starship Elements Mobilize Accessory Genes in Fungal
 Genomes**](https://academic.oup.com/mbe/article/39/5/msac109/6588634?login=true)
 and [Habig et al 2024 PNAS **Frequent
 horizontal chromosome transfer between asexual fungal insect
 pathogens**](https://www.pnas.org/doi/10.1073/pnas.2316284121?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed)
-will be due Nov 17 but I am giving it to you early for however you like
-to manage your time).
+due Nov 24.  
 
+For the 17th, I would like you to read 
+[Husnik et al. 2021 Current Biology **Bacterial and archaeal
+symbioses with
+protists**](https://www.sciencedirect.com/science/article/pii/S0960982221007478?via%3Dihub) to provide a bit of background from a modern perspective.
 
