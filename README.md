@@ -176,3 +176,7 @@ For the 17th, I would like you to read
 symbioses with
 protists**](https://www.sciencedirect.com/science/article/pii/S0960982221007478?via%3Dihub) to provide a bit of background from a modern perspective.
 
+For the 24th, some background material is provided in 
+[Parks et al., Chromosome Research 2019
+**](https://pmc.ncbi.nlm.nih.gov/articles/PMC6505490/).
+For Dec 1st, please provide a critique of [Gonzalez-Duran E, Kroop X, Schadach A, Bock R. Nat Plants. 2025 Jun;11(6):1154-1164. **](https://pmc.ncbi.nlm.nih.gov/articles/PMC12181080/).
