@@ -75,33 +75,6 @@ The primary paper we are reading (for your critique):
 [Picao-Osorio et al. 2025. **Evolution of developmental bias explains divergent patterns of phenotypic evolution in two nematode clades**](https://doi.org/10.1073/pnas.2507529122)
 
 
-## Useful background
-
-[**Princeton Guide to Evolution**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991032468589907371)
-
-[Hansen, T, editor. Houle, D, editor. Pavlicev, M, editor. Pelabon, C, editor. 2023. **Evolvability: A unifiying concept in Biology?**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991033826194607371)
-
-[Arnold, S. 2023. **Evolutionary Quantitative Genetics**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991033826383507371)
-
-[Charmantier, A, editor.; Garant, D, editor.; Kruuk, LEB, editor. 2014. **Quantitative Genetics in the Wild**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991024502139707371)
-
-[Álvarez-Castro, José M. 2023. **Genes, Environments and Interactions: Evolutionary and Quantitative Genetics Brought Up-to-date**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991034203669407371)
-
-[Walsh, B. Lynch M. 2018. **Evolution and Selection of Quantitative Traits**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991029251159707371)
-
-[Gingerich, PD. 2019. **Rates of Evolution: A Quantitative Synthesis**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991034217354107371)
-
-[Garamszegi, LZ. editor. 2013. **Modern Phylogenetic Comparative Methods and Their Application in Evolutionary Biology Concepts and Practice**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991024074319707371)
-
-[Harmon, L. 2019. **Phylogenetic Comparative Methods: Learning From Trees**](https://lukejharmon.github.io/pcm/)
-
-[Cutter, A. 2019. **A primer of molecular population genetics**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991003145659707371)
-
-[Hartl, D. 2020. **A primer of population genetics and genomics**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991015862049707371)
-
-
-
-
 
 ### Week of October 27th
 Adventures with Lateral Gene Transfer.
@@ -180,3 +153,45 @@ For the 24th, some background material is provided in
 [Parks et al., Chromosome Research 2019
 **](https://pmc.ncbi.nlm.nih.gov/articles/PMC6505490/).
 For Dec 1st, please provide a critique of [Gonzalez-Duran E, Kroop X, Schadach A, Bock R. Nat Plants. 2025 Jun;11(6):1154-1164. **](https://pmc.ncbi.nlm.nih.gov/articles/PMC12181080/).
+
+## December 1st: The conundrum of Evolutionary Rates for morphological and molecular variation
+
+No critique this week, but you will be *advesaries* with the other students regarding the plausibility of biological, vs artefactual explanations.
+
+Required readings:
+
+[Harmon et al. 2021. Causes and Consequences of Apparent Timescaling Across All Estimated Evolutionary Rates](https://doi.org/10.1146/annurev-ecolsys-011921-023644)
+
+[Rolland et al. 2023. Conceptual and empirical bridges between micro- and macroevolution](https://doi.org/10.1038/s41559-023-02116-7)
+
+[De Lisle and Svennson. 2025. Revisiting evolutionary rate–time relationships](https://doi.org/10.1093/evolut/qpaf222).
+
+
+
+
+## Useful background readings
+
+[**Princeton Guide to Evolution**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991032468589907371)
+
+[Hansen, T, editor. Houle, D, editor. Pavlicev, M, editor. Pelabon, C, editor. 2023. **Evolvability: A unifiying concept in Biology?**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991033826194607371)
+
+[Arnold, S. 2023. **Evolutionary Quantitative Genetics**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991033826383507371)
+
+[Charmantier, A, editor.; Garant, D, editor.; Kruuk, LEB, editor. 2014. **Quantitative Genetics in the Wild**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991024502139707371)
+
+[Álvarez-Castro, José M. 2023. **Genes, Environments and Interactions: Evolutionary and Quantitative Genetics Brought Up-to-date**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991034203669407371)
+
+[Walsh, B. Lynch M. 2018. **Evolution and Selection of Quantitative Traits**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991029251159707371)
+
+[Gingerich, PD. 2019. **Rates of Evolution: A Quantitative Synthesis**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991034217354107371)
+
+[Garamszegi, LZ. editor. 2013. **Modern Phylogenetic Comparative Methods and Their Application in Evolutionary Biology Concepts and Practice**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991024074319707371)
+
+[Harmon, L. 2019. **Phylogenetic Comparative Methods: Learning From Trees**](https://lukejharmon.github.io/pcm/)
+
+[Cutter, A. 2019. **A primer of molecular population genetics**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991003145659707371)
+
+[Hartl, D. 2020. **A primer of population genetics and genomics**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991015862049707371)
+
+
+
