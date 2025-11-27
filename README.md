@@ -154,7 +154,7 @@ For the 24th, some background material is provided in
 **](https://pmc.ncbi.nlm.nih.gov/articles/PMC6505490/).
 For Dec 1st, please provide a critique of [Gonzalez-Duran E, Kroop X, Schadach A, Bock R. Nat Plants. 2025 Jun;11(6):1154-1164. **](https://pmc.ncbi.nlm.nih.gov/articles/PMC12181080/).
 
-## December 1st: The conundrum of Evolutionary Rates for morphological and molecular variation
+### December 1st: The conundrum of Evolutionary Rates for morphological and molecular variation
 
 No critique this week, but you will be *advesaries* with the other students regarding the plausibility of biological, vs artefactual explanations.
 
@@ -167,9 +167,7 @@ Required readings:
 [De Lisle and Svennson. 2025. Revisiting evolutionary rate–time relationships](https://doi.org/10.1093/evolut/qpaf222).
 
 
-
-
-## Useful background readings
+## Useful background readings for the course
 
 [**Princeton Guide to Evolution**](https://mcmaster.primo.exlibrisgroup.com/permalink/01OCUL_MU/deno1h/alma991032468589907371)
 
