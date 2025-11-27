@@ -166,6 +166,8 @@ Required readings:
 
 [De Lisle and Svennson. 2025. Revisiting evolutionary rate–time relationships](https://doi.org/10.1093/evolut/qpaf222).
 
+I also wrote a few notes (think of it like an FAQ for evolutionary rates) that may be helpful. [PDF format](./RandomBitsOfInformationEvolutionaryRates.pdf) or [.Rmd format for R](./RandomBitsOfInformationEvolutionaryRates.Rmd).
+
 
 ## Useful background readings for the course
 
